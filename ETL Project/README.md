@@ -1,4 +1,4 @@
-# ETL_Project
+# ETL Project
 In this ETL project, task is to build a batch ETL pipeline to read transactional data from RDS, transform and load it into target dimensions and facts on Redshift. 
 #### The tasks performed in this project are:
 - Extracting the transactional data from a given MySQL RDS server to HDFS instance using Sqoop.
